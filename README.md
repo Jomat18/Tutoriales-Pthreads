@@ -18,7 +18,7 @@
 
 # Contribuyendo / Contributing
 
-Si tu quieres contribuir en esta lista, sientete libre para enviar una solicitud Merge / If you want to contribute to this list, feel invited to send a Merge Request
+Si tu quieres contribuir en esta lista, sientete libre para enviar una solicitud Pull / If you want to contribute to this list, feel invited to send a Pull Request
 
 
 
